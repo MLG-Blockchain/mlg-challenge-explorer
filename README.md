@@ -1,5 +1,5 @@
 # MLG Blockchain Development Challenge
-Applicants for the [Blockchain developer] role at MLG (mlgblockchain.com) must complete the following challenge, and submit a solution prior to the interview. 
+Applicants for the [Blockchain developer] role at MLG [http://mlgblockchain.com](mlgblockchain.com) must complete the following challenge, and submit a solution prior to the interview. 
 
 There isn't a hard deadline for this exercise; take as long as you need to complete it. However, in terms of total time spent actively working on the challenge, we ask that you not spend more than a few hours, as we value your time and are happy to leave things open to discussion.
 
